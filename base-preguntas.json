@@ -1,0 +1,450 @@
+[
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Brasil?",
+        "respuesta": "5",
+        "incorrecta1": "2",
+        "incorrecta2": "6",
+        "incorrecta3": "1",
+        "imagen": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-02/World%20Cup%20trophy%20cropped%20022822.jpg?itok=P_FsHShU",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Italia?",
+        "respuesta": "4",
+        "incorrecta1": "2",
+        "incorrecta2": "5",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://www.mundodeportivo.com/us/files/image_449_220/uploads/2022/04/27/6269d1bd6340c.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Equipos",
+        "pregunta":"¿Cuantas Copas del Mundo gano Alemania?",
+        "respuesta":"4",
+        "incorrecta1":"10",
+        "incorrecta2":"6",
+        "incorrecta3":"1",
+        "imagen":"https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BI3XRBE2ENI4JK5S37YNORYXXM.jpg",
+        "objectFit":"contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Uruguay?",
+        "respuesta": "2",
+        "incorrecta1": "10",
+        "incorrecta2": "6",
+        "incorrecta3": "8",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CMXQEWWOC5HNJCNHTK7ELOVG7I.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Argentina?",
+        "respuesta": "2",
+        "incorrecta1": "10",
+        "incorrecta2": "7",
+        "incorrecta3": "4",
+        "imagen": "https://mundialde.net/wp-content/uploads/2014/07/51cdc7324d474_800x520.jpg",
+        "objectFit": "contain"
+    },{
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Qatar?",
+        "respuesta": "Hassan Al-Haidos",
+        "incorrecta1": "Enner Valencia",
+        "incorrecta2": "Virgil Van Dijk",
+        "incorrecta3": "Kalidou Koulibaly",
+        "imagen": "http://content.sportslogos.net/logos/55/1519/full/6412.gif",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Ecuador?",
+        "respuesta": "Enner Valencia",
+        "incorrecta1": "Gustavo Alfaro",
+        "incorrecta2": "Carlos Queiroz",
+        "incorrecta3": "Gregg Berhalter",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/YVEPVGMPORASDGZMDHA6OTHX5Q.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Jugadores",
+        "pregunta":"¿Quien es el capitan de la seleccion de Países Bajos?",
+        "respuesta":"Virgil Van Dijk",
+        "incorrecta1":"Kalidou Koulibaly",
+        "incorrecta2":"Aliou Cissé",
+        "incorrecta3":"Félix Sánchez Bas",
+        "imagen":"https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/03/30/4f47ghdd36-seleccion-de-holanda.jpg",
+        "objectFit":"contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Ecuador?",
+        "respuesta": "Gustavo Alfaro",
+        "incorrecta1": "Aliou Cissé",
+        "incorrecta2": "Enner Valencia",
+        "incorrecta3": "Félix Sánchez Bas",
+        "imagen": "https://www.benditofutbol.com/files/article_main//files/crop/uploads/2022/06/07/629f827d30edc.r_1655395123812.122-88-1571-893.jpeg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Países Bajos?",
+        "respuesta": "Louis van Gaal",
+        "incorrecta1": "Félix Sánchez Bas",
+        "incorrecta2": "Enner Valencia",
+        "incorrecta3": "Gustavo Alfaro",
+        "imagen": "https://depor.com/resizer/II126YARy9lHp__8jO6ziHVY0Qk=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MMODXWS2GVEGHIQEO7UMLRBBZA.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Inglaterra?",
+        "respuesta": "Harry Kane",
+        "incorrecta1": "Harry styles",
+        "incorrecta2": "Harry Potter",
+        "incorrecta3": "Harry Maguire",
+        "imagen": "https://i.pinimg.com/originals/f2/bf/6a/f2bf6afeeeb44d57c00ec928029bfdbe.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Inglaterra?",
+        "respuesta": "Gareth Southgate",
+        "incorrecta1": "Sebastián Coates ",
+        "incorrecta2": "Mathías Olivera",
+        "incorrecta3": "Edinson Cavan",
+        "imagen": "http://pm1.narvii.com/6443/067b29778277cfed0e5f11d6996d8a83e1522748_00.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de EEUU?",
+        "respuesta": "Tyler Adams",
+        "incorrecta1": "Jordan Pickford",
+        "incorrecta2": "Luke Shaw",
+        "incorrecta3": "Kyle Walker",
+        "imagen": "https://brandemia.org/sites/default/files/sites/default/files/us_soccer-nuevo_logo.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quién es el máximo goleador de la historia de la Copa Mundial de Fútbol?",
+        "respuesta": "Miroslav Klose",
+        "incorrecta1": "Ronaldo",
+        "incorrecta2": "Messi",
+        "incorrecta3": "Gerd Muller",
+        "imagen": "https://www.ole.com.ar/2022/09/02/CrbB-obKe_1200x630__1.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cuántos mundiales de fútbol ha ganado España?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "4",
+        "incorrecta3": "Ninguno",
+        "imagen": "https://album.mediaset.es/eimg/2020/07/10/LYqU9urEv3TVGph8Uy87m.jpg?w=480",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Argentina?",
+        "respuesta": "Lionel Messi",
+        "incorrecta1": "Lionel Mesiento",
+        "incorrecta2": "Lionel Mesirve",
+        "incorrecta3": "Lionel Mesias",
+        "imagen": "https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-03/Dybala%205%20%281%29.jpg?itok=k8ZWDS8K",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Arabia Saudita?",
+        "respuesta": "Hervé Renard",
+        "incorrecta1": "Gustavo Alfaro",
+        "incorrecta2": "Aliou Cissé",
+        "incorrecta3": "Ehsan Hajsafi",
+        "imagen": "https://paladarnegro.net/escudoteca/selecciones/selecciones/img/arabiasaudita.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de México?",
+        "respuesta": "Andrés Guardado",
+        "incorrecta1": "Carlos Gruezo",
+        "incorrecta2": "José Cifuentes",
+        "incorrecta3": "Ángel Mena",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QQMRYADIPVHHXLOLU5PRGDSSGM.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Argentina?",
+        "respuesta": "Lionel Scaloni",
+        "incorrecta1": "Lionel Scaloneta",
+        "incorrecta2": "Lionel Messi",
+        "incorrecta3": "Lionel Scalones",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6XA5IBMNKBCHJHVPGG3FESZTHE.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cuantos goles metio Messi en los Mundiales?",
+        "respuesta": "6",
+        "incorrecta1": "4",
+        "incorrecta2": "10",
+        "incorrecta3": "14",
+        "imagen": "https://sc2.elpais.com.uy/files/article_default_content/uploads/2022/09/28/6334d0c7ebfad.jpeg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Francia?",
+        "respuesta": "2",
+        "incorrecta1": "1",
+        "incorrecta2": "9",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2015/11/27/14486576482465.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo A?",
+        "respuesta": "Catar-Ecuador-Senegal-Países Bajos",
+        "incorrecta1": "Catar-Inglaterra-México-Países Bajos",
+        "incorrecta2": "Catar-Japón-Inglaterra-Países Bajos",
+        "incorrecta3": "Catar-Inglaterra-Senegal-Países Bajos",
+        "imagen": "https://images.daznservices.com/di/library/DAZN_News/d1/fa/fifaworld-cupqatar2022_fur3igoxjrl414p7uoiqzobfp.jpg?t=1123268657&quality=60&w=1280&h=720",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo B?",
+        "respuesta": "Inglaterra-Irán-Estados Unidos-Gales",
+        "incorrecta1": "Japón-Irán-Estados Unidos-Alemania",
+        "incorrecta2": "México-Irán-Estados Unidos-Gales",
+        "incorrecta3": "Inglaterra-Alemania-Estados Unidos-Gales",
+        "imagen": "https://media.ambito.com/p/7eca61a2339283f21a770e2f4a415f2c/adjuntos/239/imagenes/040/105/0040105043/figuras-mundialjpg.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo C?",
+        "respuesta": "Argentina-Arabia Saudí-México-Polonia",
+        "incorrecta1": "Argentina-Japón-México-Irán",
+        "incorrecta2": "Argentina-Alemania-México-Alemania",
+        "incorrecta3": "Argentina-Arabia Saudí-México-Gales",
+        "imagen": "https://larepublica.pe/resizer/LAQKRg-V6-pN7YFiN_hWCfq8LAw=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/6VDTF43R5JDO5IJDSHQ7FHLJPA.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo D?",
+        "respuesta": "Francia-Australia-Dinamarca-Túnez",
+        "incorrecta1": "Francia-Alemania-Dinamarca-Japón",
+        "incorrecta2": "Francia-Polonia-Dinamarca-Túnez",
+        "incorrecta3": "Francia-Australia-Alemania-Túnez",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/16B00/production/_123982929_-ebb88b46-59f7-4144-8bce-8166eebe9233.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo E?",
+        "respuesta": "España-Costa Rica-Alemania-Japón",
+        "incorrecta1": "España-Arabia Saudí-Alemania-Australia",
+        "incorrecta2": "España-Bélgica-Canadá-Japón",
+        "incorrecta3": "España-Costa Rica-Canadá-Japón",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HEOWTHEJQBACLO5AFLFD3LXYRQ.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo F?",
+        "respuesta": "Bélgica-Canadá-Marruecos-Croacia",
+        "incorrecta1": "Bélgica-Costa Rica-Australia-Croacia",
+        "incorrecta2": "España-Canadá-Alemania-Croacia",
+        "incorrecta3": "España-Canadá-Marruecos-Japón",
+        "imagen": "https://images.daznservices.com/di/library/DAZN_News/ac/54/mpworld-cup-qualifying_oneancwkqv281k7n8m7aavha4.jpg?t=1064504568&quality=60&h=450",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Inglaterra?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "3",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://www.cronista.com/files/image/455/455413/62478773a2fa6.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano España?",
+        "respuesta": "1",
+        "incorrecta1": "3",
+        "incorrecta2": "2",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://img2.rtve.es/i/?w=1600&i=1593765731361.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cual es el pais con mas Mundiales ganados?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Alemania",
+        "imagen": "https://www.neogol.com/wp-content/uploads/2017/05/campeones-del-mundo-historicos.jpg",
+        "objectFit": "contain"
+    },{
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de futbol de 1978?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Mexico",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Estadio_Monumental_Mundial_78.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial de futbol de 1978?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Holanda",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Peru",
+        "imagen": "https://tn.com.ar/resizer/jpCt5_1M0i8D5IBVg11kFxl9NLk=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/E5XDPOB2ORG4XFLLNNNQVYHBWA.jfif",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Mundiales",
+        "pregunta":"¿En que año se jugo el primer mundial de futbol?",
+        "respuesta":"1930",
+        "incorrecta1":"1950",
+        "incorrecta2":"1960",
+        "incorrecta3":"1955",
+        "imagen":"https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFEn-d%C3%B3nde-se-jug%C3%B3-el-primer-Mundial-de-F%C3%BAtbol-de-la-FIFA-1280x720.jpg",
+        "objectFit":"contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el primer mundial de futbol?",
+        "respuesta": "Uruguay",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Chile",
+        "incorrecta3": "Estados Unido",
+        "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/11/28/15118941702311.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuantos paises Europeos partciparon en el primer mundial?",
+        "respuesta": "4",
+        "incorrecta1": "2",
+        "incorrecta2": "8",
+        "incorrecta3": "1",
+        "imagen": "https://digitalhub.fifa.com/m/590e78d02cca0d99/original/hnihpdzawktoeqzalz8n-jpg.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuántos mundiales de fútbol se han realizado desde 1930?",
+        "respuesta": "21 mundiales",
+        "incorrecta1": "20 mundiales",
+        "incorrecta2": "30 mundiales",
+        "incorrecta3": "18 mundiales",
+        "imagen": "https://www.neogol.com/wp-content/uploads/2017/05/campeones-del-mundo-historicos.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuantos equipos participaron por primera vez en la primera Copa Mundial de Fútbol?",
+        "respuesta": "13 Equipos",
+        "incorrecta1": "14 Equipos",
+        "incorrecta2": "18 Equipos",
+        "incorrecta3": "19 Equipos",
+        "imagen": "https://sialdeporte.com/wp-content/uploads/2018/01/primer-mundial-de-futbol-5.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuantos goles se realizaron en el primer mundial de futbol?",
+        "respuesta": "70 Goles",
+        "incorrecta1": "122 Goles",
+        "incorrecta2": "82 Goles",
+        "incorrecta3": "57 Goles",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balls_from_the_1930_World_Cup_final.jpg/220px-Balls_from_the_1930_World_Cup_final.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de 1986?",
+        "respuesta": "Mexico",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Uruguay",
+        "incorrecta3": "Francia",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Maradona_cup_azteca.jpg/640px-Maradona_cup_azteca.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial en el año 1986?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Mexico",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Francia",
+        "imagen": "https://i0.wp.com/lospleyers.com/wp-content/uploads/2021/05/mexico86-1.jpg?fit=1280%2C720&quality=80&ssl=1",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "El marcador final del ultimo partido del mundial en 1986 fue...",
+        "respuesta": "Argentina: 3 - Alemania: 2",
+        "incorrecta1": "Argentina: 4 - Alemania: 0",
+        "incorrecta2": "Argentina: 4 - Alemania: 2",
+        "incorrecta3": "Argentina: 2 - Alemania: 1",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Argentina_x_corea_1986.JPG/280px-Argentina_x_corea_1986.JPG",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de 2014?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Belgica",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg/220px-Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial del año 2014?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Brasil",
+        "imagen": "https://media.tycsports.com/files/2022/08/16/465986/mundial-1998_862x485.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de futbol de 2018?",
+        "respuesta": "Rusia",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Brasil",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/France_champion_of_the_Football_World_Cup_Russia_2018.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial del año 2018?",
+        "respuesta": "Francia",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Croacia",
+        "incorrecta3": "Inglaterra",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGH005dDgKXGyFDC3FynYWBU1LsPxaz-P1g&usqp=CAU",
+        "objectFit": "contain"
+    }
+]

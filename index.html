@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/boton.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap" rel="stylesheet">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Preguntados Mundial Qatar 2022</title>
+</head>
+<body>
+    
+    <img class="main_messi" src="https://assets-es.imgfoot.com/media/cache/1200x1200/lionel-messi-2223-argentina-1.jpg" >
+
+    <button class="btnMusica">
+        <svg class="btnMusica_on" xmlns="http://www.w3.org/2000/svg" width="30" height="42" fill="currentColor" class="bi bi-volume-up-fill" viewBox="0 0 16 16">
+            <path d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z"/>
+            <path d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z"/>
+            <path d="M8.707 11.182A4.486 4.486 0 0 0 10.025 8a4.486 4.486 0 0 0-1.318-3.182L8 5.525A3.489 3.489 0 0 1 9.025 8 3.49 3.49 0 0 1 8 10.475l.707.707zM6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06z"/>
+        </svg>
+
+        <svg class="btnMusica_off" xmlns="http://www.w3.org/2000/svg" width="30" height="42" fill="currentColor" class="bi bi-volume-mute-fill" viewBox="0 0 16 16">
+            <path d="M6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06zm7.137 2.096a.5.5 0 0 1 0 .708L12.207 8l1.647 1.646a.5.5 0 0 1-.708.708L11.5 8.707l-1.646 1.647a.5.5 0 0 1-.708-.708L10.793 8 9.146 6.354a.5.5 0 1 1 .708-.708L11.5 7.293l1.646-1.647a.5.5 0 0 1 .708 0z"/>
+        </svg>
+
+        <audio autoplay class="audio">
+            <source src="assets/media/musica_fondo.mp3" type="audio/mpeg">
+        </audio>
+    </button>
+
+    <div class="main">
+
+        <div class="main_container_logo">
+
+            <img class="main_logo" src="https://i.ibb.co/k0L1JbZ/LOGO-QATAR-2022-4-removebg-preview.png">
+            
+        </div>
+
+        <div class="main_container_btn">
+
+            <button class="main_btn" id="main_btn1" onmouseover="moverBackground1('main_img_btn1')" onmouseout="regresarBackground('main_img_btn1')">
+                Partida Rapida
+            </button>
+            <button class="main_btn" id="main_btn2" onmouseover="moverBackground2('main_img_btn2')" onmouseout="regresarBackground('main_img_btn2')">
+                Modo Mundiales
+            </button>
+            <button class="main_btn" id="main_btn3" onmouseover="moverBackground3('main_img_btn3')" onmouseout="regresarBackground('main_img_btn3')">
+                Modo Equipos
+            </button>
+            <button class="main_btn" id="main_btn4" onmouseover="moverBackground4('main_img_btn4')" onmouseout="regresarBackground('main_img_btn4')">
+                Modo Jugadores
+            </button>    
+ 
+        </div>
+        
+        <div class="main_container_img">
+            <div class="main_img_btn" id="main_img_btn1"></div>
+            <div class="main_img_btn" id="main_img_btn2"></div>
+            <div class="main_img_btn" id="main_img_btn3"></div>
+            <div class="main_img_btn" id="main_img_btn4"></div>
+            
+        </div>
+
+        <button class="btnGrilla" id="btnGrilla">
+            VER GRILLA DEL <svg xmlns="http://www.w3.org/2000/svg" width="40" height="20" fill="currentColor" class="bi bi-arrow-right" viewBox="3 -4 16 16">
+                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+              </svg>
+              MUNDIAL
+        </button>
+
+        <div class="rodapie">Todos los derechos reservados  &copy 2022/   Diseñado Por : 
+            <a href="https://www.linkedin.com/in/nicolas-escobar-748937246/" target="_blank"> Nicolas Escobar</a>
+        </div>
+    </div>
+
+    <div class="grillaMundial">
+        <div class="videoGrilla_proteccion">
+
+        </div>
+        <video class="videoGrilla" src="assets/media/grillaMundiales.mp4" loop></video>
+
+        <button class="btnExit_grilla" id="btnExit_grilla">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
+            </svg>
+          Volver
+        </button>
+
+    </div>
+
+    <div class="game">
+
+        <div class="puntos"></div>
+        <div class="vidas"></div>
+        <div class="vidas_restantes">
+            <img class="vidas_restantes_img" id="vidas_restantes_img_1" src="assets/media/pelota.png" alt="">
+            <img class="vidas_restantes_img" id="vidas_restantes_img_2" src="assets/media/pelota.png" alt="">
+            <img class="vidas_restantes_img" id="vidas_restantes_img_3" src="assets/media/pelota.png" alt="">
+        </div>
+
+        <div class="encabezado">
+
+            <div class="categoria" id="categoria">
+            </div>
+
+            <div class="pregunta" id="pregunta">
+            </div>
+
+            <img src="#" class="imagen" id="imagen">
+
+        </div>
+
+        <div class="game_container_btn">
+            <div class="btn" id="btn1" onclick="oprimir_boton(0)"></div>
+            <div class="btn" id="btn2" onclick="oprimir_boton(1)"></div>
+            <div class="btn" id="btn3" onclick="oprimir_boton(2)"></div>
+            <div class="btn" id="btn4" onclick="oprimir_boton(3)"></div>
+        </div>
+    
+        <button class="btnExit" id="btnExit">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
+            </svg>
+          Volver
+        </button>
+        
+    </div>
+
+
+
+<script src="assets/js/script.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/botones.js"></script>
+</body>
+</html>

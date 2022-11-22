@@ -1,0 +1,184 @@
+/*--------------------------------- BTN MENU ----------------------------------*/
+.main_container_btn{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    width: 50%;
+    height: 68%;
+    margin-left: 10%;
+    z-index: 100;
+}
+
+.main_btn{
+    width: 65%;
+    height:13%;
+    color: #ffffff;
+    background: rgb(141,28,61);
+    background: linear-gradient(330deg, rgb(148, 17, 56) 30%, rgb(32, 20, 20) 100%);
+    transition: transform, background-color, color,  ease-in-out .2s;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18pt;
+    font-weight: 700;
+    letter-spacing: .6pt;
+    clip-path: polygon(8% 0, 100% 0, 92% 100%, 0% 100%);
+    border: none;
+    border-bottom: 2px solid #eed4ac;
+}
+
+#main_btn1{
+    margin-left: 150px ;
+}
+
+#main_btn2{
+    margin-left: 100px ;
+}
+
+#main_btn3{
+    margin-left: 50px ;
+}
+
+#main_btn4{
+    margin-left: 0px ;
+}
+
+/*--------------------------------- BTN MENU MUSICA ----------------------------------*/
+
+.btnMusica{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    right: 15px;
+    top: 15px;
+    border-radius: 6px;
+    background: none;
+    border: none;
+    color: aliceblue;
+}
+
+.btnMusica_off{
+    display: none;
+}
+
+/*--------------------------------- BTN IMAGENES MENU ----------------------------------*/
+
+.main_img_btn{
+    position: absolute;
+    width: 10%;
+    height: 9.4%;
+    left: 65%;
+    z-index: 10;
+    background-image: linear-gradient(90deg, #8d1c3d 2%, rgba(141,28,61,0.7791491596638656) 47%, rgba(255,255,255,0.23012955182072825) 100%);
+    background-size: cover;
+    transition: transform, background-color, color,  ease-in-out .2s;
+    clip-path: polygon(0 0, 100% 0, 80% 100%, 0% 100%);
+    border: none;
+    border-bottom: 2px solid #eed4ac;
+}
+
+.main_btn:hover {
+    transform: translate(-50px, 0px)
+}
+
+#main_img_btn1{
+    height: 8.3%;
+    top: 129px;
+    background-image: linear-gradient(90deg, #8d1c3d 2%, rgba(141,28,61,0.7791491596638656) 47%, rgba(255,255,255,0.23012955182072825) 100%), url(https://i.ibb.co/gT4VrgL/TSN7-EZW2-TM2-OZ6-YQVFB2-HZ7-Y7-E.jpg);
+    background-size: cover;
+    background-position: 140px;
+}
+
+#main_img_btn2{
+    height: 8.3%;
+    top: 236px;
+    background-image: linear-gradient(90deg, #8d1c3d 2%, rgba(141,28,61,0.7791491596638656) 47%, rgba(255,255,255,0.23012955182072825) 100%), url(https://i.ibb.co/3fKnR81/62ab8b448c2c0-r-d-716-713.jpg);
+    background-size: cover;
+
+}
+
+#main_img_btn3{
+    height: 8.3%;
+    top: 342px;
+    border-bottom: 2.5px solid #eed4ac;
+    background-image: linear-gradient(90deg, #8d1c3d 2%, rgba(141,28,61,0.7791491596638656) 47%, rgba(255,255,255,0.23012955182072825) 100%), url(https://i.ibb.co/S74337D/VO7-P39-F1-14307.jpg);
+    background-size: cover;
+}
+
+#main_img_btn4{
+    height: 8.3%;
+    top: 449px;
+    background-image: linear-gradient(90deg, #8d1c3d 2%, rgba(141,28,61,0.7791491596638656) 47%, rgba(255,255,255,0.23012955182072825) 100%), url(https://i.ibb.co/yVbYLnr/maradona-frases.jpg);
+    background-size: cover;
+}
+
+/*--------------------------------- BTN GRILLA ----------------------------------*/
+
+.btnGrilla{
+    width: 200px;
+    border: none;
+    background: none;
+    color: #ffffff69;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    transition: color .3s;
+}
+
+.btnGrilla:hover{
+    color: #ffffff;
+}
+
+.btnExit_grilla{
+    border: none;
+    background: none;
+    color: #ffffff69;
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    font-size: 128%;
+    font-family: 'Poppins', sans-serif;
+    transition: color .3s;
+}
+
+.btnExit_grilla:hover{
+    color: #ffffff;
+}
+
+/*--------------------------------- BTN GAME ----------------------------------*/
+
+.game_container_btn{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: center;
+    background-image: url("https://i.ibb.co/qx2yT5V/blurry-gradient-haikei2.png");
+    background-size: cover;
+    padding: 6px;
+}
+
+.btn{
+    background: linear-gradient(142deg, rgba(225,195,150,1) 0%, rgba(255,255,255,1) 100%);
+    border-radius: 5px;
+    width: 60%;
+    padding: 10px;
+    margin: 6px;
+    transition: all 0.2s;
+    max-width: 550px;
+    font-size: 19px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    transform: scale(1.04);
+}
+
+.btnExit{
+    border: none;
+    background: none;
+    color: #ffffff;
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+}
+

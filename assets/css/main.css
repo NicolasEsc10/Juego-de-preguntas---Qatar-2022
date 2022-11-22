@@ -1,0 +1,77 @@
+.main_messi{
+    position: absolute;
+    top: -50px;
+    left: -50px;
+    width: 46%;
+    z-index:-10;
+    background-color: aliceblue;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(137deg, rgba(188,4,52,0.6278886554621849) 0%, rgba(188,4,52,1) 27%, rgba(0,0,0,1) 100%);
+    overflow: hidden;
+    z-index: 100;
+}
+
+.main_container_logo{
+    width: 37%;
+}
+
+.main_logo{
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    width: 46%;
+
+}
+
+/*--------------------------------- GRILLA ----------------------------------*/
+
+.grillaMundial{
+    display: none;
+}
+
+.grillaMundial{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(137deg, rgba(188,4,52,0.6278886554621849) 0%, rgba(188,4,52,1) 27%, rgba(0,0,0,1) 100%);
+    overflow: hidden;
+    display: none;
+}
+
+.videoGrilla_proteccion{
+    position: absolute;
+    background-color: rgba(240, 248, 255, 0);
+    width: 70%;
+    height: 86%;
+    margin-left: 200px;
+    z-index: 100;
+}
+
+.videoGrilla{
+    width: 70%;
+    margin-left: 200px;
+}
+
+.rodapie{
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    color: #ffffff5b;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
+.rodapie a{
+    text-decoration: none;
+    color: #ffffff5b;
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Brasil?",
+        "respuesta": "5",
+        "incorrecta1": "2",
+        "incorrecta2": "6",
+        "incorrecta3": "1",
+        "imagen": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-02/World%20Cup%20trophy%20cropped%20022822.jpg?itok=P_FsHShU",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Italia?",
+        "respuesta": "4",
+        "incorrecta1": "2",
+        "incorrecta2": "5",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://www.mundodeportivo.com/us/files/image_449_220/uploads/2022/04/27/6269d1bd6340c.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Equipos",
+        "pregunta":"¿Cuantas Copas del Mundo gano Alemania?",
+        "respuesta":"4",
+        "incorrecta1":"10",
+        "incorrecta2":"6",
+        "incorrecta3":"1",
+        "imagen":"https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BI3XRBE2ENI4JK5S37YNORYXXM.jpg",
+        "objectFit":"contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Uruguay?",
+        "respuesta": "2",
+        "incorrecta1": "10",
+        "incorrecta2": "6",
+        "incorrecta3": "8",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CMXQEWWOC5HNJCNHTK7ELOVG7I.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Argentina?",
+        "respuesta": "2",
+        "incorrecta1": "10",
+        "incorrecta2": "7",
+        "incorrecta3": "4",
+        "imagen": "https://mundialde.net/wp-content/uploads/2014/07/51cdc7324d474_800x520.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Francia?",
+        "respuesta": "2",
+        "incorrecta1": "1",
+        "incorrecta2": "9",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2015/11/27/14486576482465.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo A?",
+        "respuesta": "Catar-Ecuador-Senegal-Países Bajos",
+        "incorrecta1": "Catar-Inglaterra-México-Países Bajos",
+        "incorrecta2": "Catar-Japón-Inglaterra-Países Bajos",
+        "incorrecta3": "Catar-Inglaterra-Senegal-Países Bajos",
+        "imagen": "https://images.daznservices.com/di/library/DAZN_News/d1/fa/fifaworld-cupqatar2022_fur3igoxjrl414p7uoiqzobfp.jpg?t=1123268657&quality=60&w=1280&h=720",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo B?",
+        "respuesta": "Inglaterra-Irán-Estados Unidos-Gales",
+        "incorrecta1": "Japón-Irán-Estados Unidos-Alemania",
+        "incorrecta2": "México-Irán-Estados Unidos-Gales",
+        "incorrecta3": "Inglaterra-Alemania-Estados Unidos-Gales",
+        "imagen": "https://media.ambito.com/p/7eca61a2339283f21a770e2f4a415f2c/adjuntos/239/imagenes/040/105/0040105043/figuras-mundialjpg.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo C?",
+        "respuesta": "Argentina-Arabia Saudí-México-Polonia",
+        "incorrecta1": "Argentina-Japón-México-Irán",
+        "incorrecta2": "Argentina-Alemania-México-Alemania",
+        "incorrecta3": "Argentina-Arabia Saudí-México-Gales",
+        "imagen": "https://larepublica.pe/resizer/LAQKRg-V6-pN7YFiN_hWCfq8LAw=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/6VDTF43R5JDO5IJDSHQ7FHLJPA.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo D?",
+        "respuesta": "Francia-Australia-Dinamarca-Túnez",
+        "incorrecta1": "Francia-Alemania-Dinamarca-Japón",
+        "incorrecta2": "Francia-Polonia-Dinamarca-Túnez",
+        "incorrecta3": "Francia-Australia-Alemania-Túnez",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/16B00/production/_123982929_-ebb88b46-59f7-4144-8bce-8166eebe9233.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo E?",
+        "respuesta": "España-Costa Rica-Alemania-Japón",
+        "incorrecta1": "España-Arabia Saudí-Alemania-Australia",
+        "incorrecta2": "España-Bélgica-Canadá-Japón",
+        "incorrecta3": "España-Costa Rica-Canadá-Japón",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HEOWTHEJQBACLO5AFLFD3LXYRQ.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuales son los equipos que estan en el Grupo F?",
+        "respuesta": "Bélgica-Canadá-Marruecos-Croacia",
+        "incorrecta1": "Bélgica-Costa Rica-Australia-Croacia",
+        "incorrecta2": "España-Canadá-Alemania-Croacia",
+        "incorrecta3": "España-Canadá-Marruecos-Japón",
+        "imagen": "https://images.daznservices.com/di/library/DAZN_News/ac/54/mpworld-cup-qualifying_oneancwkqv281k7n8m7aavha4.jpg?t=1064504568&quality=60&h=450",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano Inglaterra?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "3",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://www.cronista.com/files/image/455/455413/62478773a2fa6.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuantas Copas del Mundo gano España?",
+        "respuesta": "1",
+        "incorrecta1": "3",
+        "incorrecta2": "2",
+        "incorrecta3": "Ninguna",
+        "imagen": "https://img2.rtve.es/i/?w=1600&i=1593765731361.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cual es el pais con mas Mundiales ganados?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Alemania",
+        "imagen": "https://www.neogol.com/wp-content/uploads/2017/05/campeones-del-mundo-historicos.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "Los equipos que se enfrentaron y terminaron con un marcador de 31-0 fueron...",
+        "respuesta": "Australia-Samoa Americana",
+        "incorrecta1": "Argentina-Brasil",
+        "incorrecta2": "Italia-Alemania",
+        "incorrecta3": "Australia-Italia",
+        "imagen": "https://sportdigital.com.ar/03-2020/resize_1585491925.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuál de estos futbolistas NO marcó 5 goles en un mismo partido?",
+        "respuesta": "Aubameyang",
+        "incorrecta1": "Dimitar Berbatov",
+        "incorrecta2": "Andy Cole",
+        "incorrecta3": "Sergio Agüero",
+        "imagen": "https://tupermitidodesiempre.com.ar/download/multimedia.normal.9ec6e1ecbd466145.667574626f6c2070656c6f7461206172636f5f6e6f726d616c2e6a7067.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cual de estos equipos NO ha ganado una Copa Mundial todavia?",
+        "respuesta": "Mexico",
+        "incorrecta1": "Uruguay",
+        "incorrecta2": "Inglaterra",
+        "incorrecta3": "españa",
+        "imagen": "https://cdn2.mediotiempo.com/uploads/media/2022/09/13/la-copa-del-mundo-estara.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cual de estos equipos NO clasificaron para la Copa Mundial 2022?",
+        "respuesta": "Guatemala",
+        "incorrecta1": "Croacia",
+        "incorrecta2": "Bélgica",
+        "incorrecta3": "Ghana",
+        "imagen": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1080,h_607,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_es_international_web/01gem8wwcb7aw599v2xn.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Equipos",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol?",
+        "respuesta": "11",
+        "incorrecta1": "9",
+        "incorrecta2": "10",
+        "incorrecta3": "13",
+        "imagen": "https://www.caracteristicass.de/wp-content/uploads/2018/08/caracteristicas-de-los-jugadores-de-futbol.jpg",
+        "objectFit": "contain"
+    }
+]

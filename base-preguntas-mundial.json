@@ -1,0 +1,202 @@
+[   
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de futbol de 1978?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Mexico",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Estadio_Monumental_Mundial_78.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial de futbol de 1978?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Holanda",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Peru",
+        "imagen": "https://tn.com.ar/resizer/jpCt5_1M0i8D5IBVg11kFxl9NLk=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/E5XDPOB2ORG4XFLLNNNQVYHBWA.jfif",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Mundiales",
+        "pregunta":"¿En que año se jugo el primer mundial de futbol?",
+        "respuesta":"1930",
+        "incorrecta1":"1950",
+        "incorrecta2":"1960",
+        "incorrecta3":"1955",
+        "imagen":"https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFEn-d%C3%B3nde-se-jug%C3%B3-el-primer-Mundial-de-F%C3%BAtbol-de-la-FIFA-1280x720.jpg",
+        "objectFit":"contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el primer mundial de futbol?",
+        "respuesta": "Uruguay",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Chile",
+        "incorrecta3": "Estados Unido",
+        "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/11/28/15118941702311.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuantos paises Europeos partciparon en el primer mundial?",
+        "respuesta": "4",
+        "incorrecta1": "2",
+        "incorrecta2": "8",
+        "incorrecta3": "1",
+        "imagen": "https://digitalhub.fifa.com/m/590e78d02cca0d99/original/hnihpdzawktoeqzalz8n-jpg.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuántos mundiales de fútbol se han realizado desde 1930?",
+        "respuesta": "21 mundiales",
+        "incorrecta1": "20 mundiales",
+        "incorrecta2": "30 mundiales",
+        "incorrecta3": "18 mundiales",
+        "imagen": "https://www.neogol.com/wp-content/uploads/2017/05/campeones-del-mundo-historicos.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuantos equipos participaron por primera vez en la primera Copa Mundial de Fútbol?",
+        "respuesta": "13 Equipos",
+        "incorrecta1": "14 Equipos",
+        "incorrecta2": "18 Equipos",
+        "incorrecta3": "19 Equipos",
+        "imagen": "https://sialdeporte.com/wp-content/uploads/2018/01/primer-mundial-de-futbol-5.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cuantos goles se realizaron en el primer mundial de futbol?",
+        "respuesta": "70 Goles",
+        "incorrecta1": "122 Goles",
+        "incorrecta2": "82 Goles",
+        "incorrecta3": "57 Goles",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balls_from_the_1930_World_Cup_final.jpg/220px-Balls_from_the_1930_World_Cup_final.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de 1986?",
+        "respuesta": "Mexico",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Uruguay",
+        "incorrecta3": "Francia",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Maradona_cup_azteca.jpg/640px-Maradona_cup_azteca.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial en el año 1986?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Mexico",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Francia",
+        "imagen": "https://i0.wp.com/lospleyers.com/wp-content/uploads/2021/05/mexico86-1.jpg?fit=1280%2C720&quality=80&ssl=1",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "El marcador final del ultimo partido del mundial en 1986 fue...",
+        "respuesta": "Argentina: 3 - Alemania: 2",
+        "incorrecta1": "Argentina: 4 - Alemania: 0",
+        "incorrecta2": "Argentina: 4 - Alemania: 2",
+        "incorrecta3": "Argentina: 2 - Alemania: 1",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Argentina_x_corea_1986.JPG/280px-Argentina_x_corea_1986.JPG",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de 2014?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Belgica",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg/220px-Bosnia_players_at_Maracan%C3%A3_15_June_2014.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial del año 2014?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Brasil",
+        "imagen": "https://media.tycsports.com/files/2022/08/16/465986/mundial-1998_862x485.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿En que pais se jugo el mundial de futbol de 2018?",
+        "respuesta": "Rusia",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Brasil",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/France_champion_of_the_Football_World_Cup_Russia_2018.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Quien gano el mundial del año 2018?",
+        "respuesta": "Francia",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Croacia",
+        "incorrecta3": "Inglaterra",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGH005dDgKXGyFDC3FynYWBU1LsPxaz-P1g&usqp=CAU",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cual fue la Primera mascota Oficial de la Copa Mundial?",
+        "respuesta": "Un leon",
+        "incorrecta1": "Un gato",
+        "incorrecta2": "Un carpincho",
+        "incorrecta3": "Un armadillo",
+        "imagen": "https://www.lifeder.com/wp-content/uploads/2018/10/selva-ecuatorial.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cual fue la mascota Oficial de la Copa Mundial de 1982?",
+        "respuesta": "Una naranja",
+        "incorrecta1": "Una mandarina",
+        "incorrecta2": "Un limon",
+        "incorrecta3": "Una manzana",
+        "imagen": "https://t1.uc.ltmcdn.com/es/posts/4/0/5/cuales_son_las_frutas_de_invierno_7504_600.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cual fue la mascota Oficial de la Copa Mundial de 1994?",
+        "respuesta": "Un perro",
+        "incorrecta1": "Un mono",
+        "incorrecta2": "Un leon",
+        "incorrecta3": "Un panda",
+        "imagen": "https://assets.afcdn.com/story/20161017/989289_w1200h630c1cx511cy250.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Que animal fue la mascota Oficial de la Copa Mundial de 1994 llamada 'Striker'?",
+        "respuesta": "Un perro",
+        "incorrecta1": "Un mono",
+        "incorrecta2": "Un leon",
+        "incorrecta3": "Un panda",
+        "imagen": "https://i.pinimg.com/originals/67/fd/23/67fd2347c72d1d05985b736ec0902a66.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Mundiales",
+        "pregunta": "¿Cual es la mascota Oficial de la Copa Mundial de 2022?",
+        "respuesta": "Un fantasma",
+        "incorrecta1": "Un gallo",
+        "incorrecta2": "Un lobo",
+        "incorrecta3": "Una bufanda",
+        "imagen": "https://cdn.5dias.com.py/uploads/mundial_de_qatar_2022.jpg",
+        "objectFit": "contain"
+    }
+]

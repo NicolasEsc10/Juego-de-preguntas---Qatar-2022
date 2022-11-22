@@ -1,0 +1,202 @@
+[
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Qatar?",
+        "respuesta": "Hassan Al-Haidos",
+        "incorrecta1": "Enner Valencia",
+        "incorrecta2": "Virgil Van Dijk",
+        "incorrecta3": "Kalidou Koulibaly",
+        "imagen": "http://content.sportslogos.net/logos/55/1519/full/6412.gif",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Ecuador?",
+        "respuesta": "Enner Valencia",
+        "incorrecta1": "Gustavo Alfaro",
+        "incorrecta2": "Carlos Queiroz",
+        "incorrecta3": "Gregg Berhalter",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/YVEPVGMPORASDGZMDHA6OTHX5Q.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Jugadores",
+        "pregunta":"¿Quien es el capitan de la seleccion de Países Bajos?",
+        "respuesta":"Virgil Van Dijk",
+        "incorrecta1":"Kalidou Koulibaly",
+        "incorrecta2":"Aliou Cissé",
+        "incorrecta3":"Félix Sánchez Bas",
+        "imagen":"https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/03/30/4f47ghdd36-seleccion-de-holanda.jpg",
+        "objectFit":"contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Ecuador?",
+        "respuesta": "Gustavo Alfaro",
+        "incorrecta1": "Aliou Cissé",
+        "incorrecta2": "Enner Valencia",
+        "incorrecta3": "Félix Sánchez Bas",
+        "imagen": "https://www.benditofutbol.com/files/article_main//files/crop/uploads/2022/06/07/629f827d30edc.r_1655395123812.122-88-1571-893.jpeg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Países Bajos?",
+        "respuesta": "Louis van Gaal",
+        "incorrecta1": "Félix Sánchez Bas",
+        "incorrecta2": "Enner Valencia",
+        "incorrecta3": "Gustavo Alfaro",
+        "imagen": "https://depor.com/resizer/II126YARy9lHp__8jO6ziHVY0Qk=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/MMODXWS2GVEGHIQEO7UMLRBBZA.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Inglaterra?",
+        "respuesta": "Harry Kane",
+        "incorrecta1": "Harry styles",
+        "incorrecta2": "Harry Potter",
+        "incorrecta3": "Harry Maguire",
+        "imagen": "https://i.pinimg.com/originals/f2/bf/6a/f2bf6afeeeb44d57c00ec928029bfdbe.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Inglaterra?",
+        "respuesta": "Gareth Southgate",
+        "incorrecta1": "Sebastián Coates ",
+        "incorrecta2": "Mathías Olivera",
+        "incorrecta3": "Edinson Cavan",
+        "imagen": "http://pm1.narvii.com/6443/067b29778277cfed0e5f11d6996d8a83e1522748_00.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de EEUU?",
+        "respuesta": "Tyler Adams",
+        "incorrecta1": "Jordan Pickford",
+        "incorrecta2": "Luke Shaw",
+        "incorrecta3": "Kyle Walker",
+        "imagen": "https://brandemia.org/sites/default/files/sites/default/files/us_soccer-nuevo_logo.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quién es el máximo goleador de la historia de la Copa Mundial de Fútbol?",
+        "respuesta": "Miroslav Klose",
+        "incorrecta1": "Ronaldo",
+        "incorrecta2": "Messi",
+        "incorrecta3": "Gerd Muller",
+        "imagen": "https://www.ole.com.ar/2022/09/02/CrbB-obKe_1200x630__1.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cuántos mundiales de fútbol ha ganado España?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "4",
+        "incorrecta3": "Ninguno",
+        "imagen": "https://album.mediaset.es/eimg/2020/07/10/LYqU9urEv3TVGph8Uy87m.jpg?w=480",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Argentina?",
+        "respuesta": "Lionel Messi",
+        "incorrecta1": "Lionel Mesiento",
+        "incorrecta2": "Lionel Mesirve",
+        "incorrecta3": "Lionel Mesias",
+        "imagen": "https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-03/Dybala%205%20%281%29.jpg?itok=k8ZWDS8K",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de Arabia Saudita?",
+        "respuesta": "Hervé Renard",
+        "incorrecta1": "Gustavo Alfaro",
+        "incorrecta2": "Aliou Cissé",
+        "incorrecta3": "Ehsan Hajsafi",
+        "imagen": "https://paladarnegro.net/escudoteca/selecciones/selecciones/img/arabiasaudita.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el capitan de la seleccion de México?",
+        "respuesta": "Andrés Guardado",
+        "incorrecta1": "Carlos Gruezo",
+        "incorrecta2": "José Cifuentes",
+        "incorrecta3": "Ángel Mena",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QQMRYADIPVHHXLOLU5PRGDSSGM.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Quien es el DT de la seleccion de Argentina?",
+        "respuesta": "Lionel Scaloni",
+        "incorrecta1": "Lionel Scaloneta",
+        "incorrecta2": "Lionel Messi",
+        "incorrecta3": "Lionel Scalones",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6XA5IBMNKBCHJHVPGG3FESZTHE.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cuantos goles metio Messi en los Mundiales?",
+        "respuesta": "6",
+        "incorrecta1": "4",
+        "incorrecta2": "10",
+        "incorrecta3": "14",
+        "imagen": "https://sc2.elpais.com.uy/files/article_default_content/uploads/2022/09/28/6334d0c7ebfad.jpeg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Que jugador de futbol hizo el iconico gol que fue llamado 'Mano de Dios' ?",
+        "respuesta": "Maradona",
+        "incorrecta1": "Lionel Messi",
+        "incorrecta2": "Cristiano Ronaldo",
+        "incorrecta3": "Ronaldinho",
+        "imagen": "https://nodocios.com.ar/wp-content/uploads/2022/01/variable-Messi-de-su-empresa-696x391.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿A qué futbolista se conoce con el apodo de Harry Potter?",
+        "respuesta": "Ricardo Quaresma",
+        "incorrecta1": "Luis Arturo Hernández Carreón",
+        "incorrecta2": "Diego Maradona",
+        "incorrecta3": "Just Fontaine",
+        "imagen": "https://www.cronista.com/files/image/488/488121/636e67d2c55ba.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cual es el futbolista con mas balones de oro en el mundo?",
+        "respuesta": "Lionel Messi",
+        "incorrecta1": "Cristiano Ronaldo",
+        "incorrecta2": "Diego Maradona",
+        "incorrecta3": "johan cruyff",
+        "imagen": "https://media.ambito.com/p/5af521458763c4824d23793ea2ad3666/adjuntos/239/imagenes/040/199/0040199915/1200x675/smart/balon-de-oro-france-footballjpg.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cuantos balones de oro tiene el futbolista Lionel Messi?",
+        "respuesta": "7",
+        "incorrecta1": "2",
+        "incorrecta2": "15",
+        "incorrecta3": "20",
+        "imagen": "https://estaticos-cdn.elperiodico.com/clip/213a140d-6126-4f28-b9f1-6b4be4a3f27f_alta-libre-aspect-ratio_default_0.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Jugadores",
+        "pregunta": "¿Cada cuantos años se realiza la copa mundial de fútbol?",
+        "respuesta": "4",
+        "incorrecta1": "2",
+        "incorrecta2": "3",
+        "incorrecta3": "8",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VNUOB5TCLFGDFHMV42IEJSJZS4.jpg",
+        "objectFit": "contain"
+    }
+]

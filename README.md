@@ -11,4 +11,4 @@ Modo Jugadores: En esta seccion las preguntas lo protagonizan los futbolistas, d
 Partida Rapida: Y por ultimo, esta categoria es una recopilación de las tres categorias anteriores, mescladas y con una dificultad mas alta, para personas que tengan un amplio conocimiento acerca del futbol
 
 
-Esta pagina la hice con el fin de entrenar, pulir, probar y experimentar con nuevas cosas y lenguajes, y que mejor forma que hacerlo que creando una pagia web dedicada al evento mas importante y esperado de futbol
+Esta pagina la hice con el fin de entrenar, pulir, probar y experimentar con nuevas cosas y lenguajes, y que mejor forma que hacerlo que creando una pagina web dedicada al evento mas importante y esperado de futbol

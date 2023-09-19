@@ -62,10 +62,10 @@
 }
 
 .rodapie{
-    font-size: 13px;
+    font-size: 10px;
     font-family: 'Poppins', sans-serif;
     font-style: italic;
-    color: #ffffff5b;
+    color: #ffffff31;
     position: absolute;
     bottom: 5px;
     left: 5px;
@@ -73,5 +73,5 @@
 
 .rodapie a{
     text-decoration: none;
-    color: #ffffff5b;
+    color: #ffffff31;
 }

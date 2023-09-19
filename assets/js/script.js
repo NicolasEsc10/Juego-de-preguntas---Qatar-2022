@@ -1,4 +1,3 @@
-
 let base_preguntas = readText("base-preguntas.json")
 let base_preguntas_mundial = readText("base-preguntas-mundial.json")
 let base_preguntas_equipos = readText("base-preguntas-equipos.json")
@@ -12,7 +11,6 @@ let posibles_respuestas
 let elegir = 0
 let puntos = 0
 let intentos = 0
-
 
 function numAleatorioSinRepetir(minimo,maximo) {
 	var i;
@@ -31,10 +29,8 @@ function numAleatorioSinRepetir(minimo,maximo) {
 	return numero; 
 }
 
-
 select_class(".puntos").innerHTML = "RESPUESTAS CORRECTAS : 0 / 10"
 select_class(".vidas").innerHTML += "INTENTOS" 
-
 
 function quitarVida(){
 	if (intentos == 1) {
@@ -90,10 +86,6 @@ function escogerPregunta(n) {
 
 	console.log(n)
 }
-
-
-
-
 
 let btns = [
 	select_id("btn1"),
@@ -160,14 +152,12 @@ function oprimir_boton(i) {
 	}
 }
 
-
 function reiniciar() {
 	for(const btn of btns){
 		btn.style.background = "linear-gradient(142deg, rgba(225,195,150,1) 0%, rgba(255,255,255,1) 100%)"
 	}
 	escogerPreguntaAleatoria()
 }
-
 
 function select_id(id) {
 	return document.getElementById(id);
@@ -180,7 +170,6 @@ function select_class(class_name) {
 function style(id) {
 	return select_id(id).style;
 }
-
 
 function readText(ruta_local) {
 	var texto = null;
@@ -207,7 +196,6 @@ function alertaGanar(){
 		confirmButtonColor: '#5cc62e'
 	})	
 }
-
 
 function alertaPerder(){
 	Swal.fire({

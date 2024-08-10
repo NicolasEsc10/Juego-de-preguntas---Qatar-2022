@@ -1,18 +1,18 @@
-function moverBackground1(id){
-    style(id).left = "84.5%"
-}
+// function moverBackground1(id){
+//     style(id).left = "84.5%"
+// }
 
-function moverBackground2(id){
-    style(id).left = "81%"
-}
+// function moverBackground2(id){
+//     style(id).left = "81%"
+// }
 
-function moverBackground3(id){
-    style(id).left = "77.4%"
-}
+// function moverBackground3(id){
+//     style(id).left = "77.4%"
+// }
 
-function moverBackground4(id){
-    style(id).left = "73.7%"
-}
+// function moverBackground4(id){
+//     style(id).left = "73.7%"
+// }
 
 function regresarBackground(id){
     style(id).left= "65%"

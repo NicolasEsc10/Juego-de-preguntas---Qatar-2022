@@ -14,7 +14,7 @@
     position: relative;
     width: 65%;
     max-width: 600px;
-    height: 70px;
+    height: 75px;
     font-family: 'Titillium Web', sans-serif;
     font-size: 18pt;
     font-weight: 700;
@@ -79,7 +79,7 @@
     top: 0;
     left: 20%;
     width: 200px;
-    height: 70px;
+    height: 75px;
     transition: left 0.3s ease;
 }
 
@@ -146,9 +146,11 @@
     flex-direction: column;
     width: 40%;
     align-items: center;
-    background-image: url("https://i.ibb.co/qx2yT5V/blurry-gradient-haikei2.png");
+    background: rgb(188,4,52);
+    background: linear-gradient(0deg, rgba(188,4,52,1) 0%, rgba(48,0,13,1) 100%);
     background-size: cover;
     padding: 6px;
+    border-radius: 0px 0px 7px 7px;
 }
 
 .btn{

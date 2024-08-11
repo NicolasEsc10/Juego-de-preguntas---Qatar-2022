@@ -18,13 +18,15 @@ body{
 }
 
 .encabezado{
-    background-image: url("https://i.ibb.co/BwHWKph/blurry-gradient-haikei.png");
+    background: rgb(188,4,52);
+    background: radial-gradient(circle, rgba(188,4,52,1) 0%, rgba(163,8,48,1) 47%, rgba(166,13,52,1) 63%, rgba(48,0,13,1) 100%);
     background-size: cover;
     min-width: 300px;
     width: 70%;
     height: 50%;
     padding: 10px;
     max-width: 600px;
+    border-radius: 7px;
 }
 
 .categoria{    
